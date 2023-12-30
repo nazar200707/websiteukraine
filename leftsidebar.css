@@ -1,0 +1,12 @@
+.leftsidebar {
+  background-color: #7091bd;
+  height: 1990px;
+  width: 150px;
+   box-shadow: 0 0 30px black;
+}
+
+@media (max-width: 1000px) {
+
+.leftsidebar {
+  height: 2000px;
+}

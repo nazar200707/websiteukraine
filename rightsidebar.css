@@ -1,0 +1,12 @@
+.rightsidebar {
+  background-color: #7091bd;
+  height: 1990px;
+  width: 100px;
+  float: right;
+   box-shadow: 0 0 30px black;
+}
+@media (max-width: 1000px) {
+  
+  .rightsidebar {
+    height: 2000px;
+  }
